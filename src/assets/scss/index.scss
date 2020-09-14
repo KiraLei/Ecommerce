@@ -1,8 +1,7 @@
-@import "variables" ;
+@use "_colors" as colors ;
 
 
-p{
-    
-  color: map-get($colors,blue)!important ;
+p{    
+  color: colors.$red;
 }
 
