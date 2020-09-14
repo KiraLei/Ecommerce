@@ -1,6 +1,6 @@
 <template>
   <div   >
-    <ul>
+    <ul class="  tamaño1  color-blue">
       <li>Mirian</li>
       <li>Antony</li>
       <li>Henry</li>
@@ -18,3 +18,10 @@ export default Vue.extend({
   name:'About'
 });
 </script>
+
+
+<style lang="scss">
+  
+ 
+</style>
+

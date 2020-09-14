@@ -2,7 +2,7 @@
   <div>
   <p>  Hello I am: Index.vue
 </p>
-    <ButtonComponent text="saludar" :click="bnSaludarClick" />
+    <ButtonComponent   text="saludar" :click="bnSaludarClick" />
   </div>
 </template>
 
